@@ -8,4 +8,4 @@ Repo. Consist of PHP Resources
 
 ##
 
-[LYNDA PHP-ESSENTIALS CRACKED COURSE (Tutorials + Exercises)](https://drive.google.com/drive/folders/0B2t-Tmujl-IbTXAtZUthNWtscGc?usp=sharing)
+[Lynda PHP Essentials](https://drive.google.com/drive/folders/0B2t-Tmujl-IbTXAtZUthNWtscGc?usp=sharing)
