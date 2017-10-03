@@ -1,0 +1,3 @@
+Create a simple PHP page which generates one of two things based on the value of the HTTP_REFERER variable.
+  If that variable is the empty string (not set), simply give a short message that the user didn't come from anywhere.
+  If it is set, generate an HTML link to return to whereever you came from.
