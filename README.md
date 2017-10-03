@@ -17,3 +17,6 @@ Repo. Consist of PHP Resources
 ##
 
 [Lynda PHP Essentials](https://drive.google.com/drive/folders/0B2t-Tmujl-IbTXAtZUthNWtscGc?usp=sharing)
+
+[Udemy PHP Tutorial](https://drive.google.com/drive/folders/0ByWO0aO1eI_Md1p5WXpLMFRuVEE)
+[Building Web Sites With PHP](https://drive.google.com/drive/folders/0ByWO0aO1eI_MY1NCODQtMzFWaDQ)
