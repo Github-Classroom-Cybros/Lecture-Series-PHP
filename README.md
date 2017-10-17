@@ -17,3 +17,7 @@ Repo. Consist of PHP Resources
 ##
 
 [Lynda PHP Essentials](https://drive.google.com/drive/folders/0B2t-Tmujl-IbTXAtZUthNWtscGc?usp=sharing)
+
+##
+
+[PHP books collection](http://cs.petrsu.ru/~musen/php/2012/Books/)
